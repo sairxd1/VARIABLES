@@ -18,3 +18,6 @@ Integer numero=10;
 String nombre= “Andrés”;
 
 Usuario usuario= new Usuario(”Andrés”);
+
+![ANIME](pngwing.com.png)
+
